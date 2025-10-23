@@ -1,7 +1,8 @@
 
 # Hey 👋 What's up?
 
-My name is Rida — I'm currently studying web development.
+My name is Rida 🪅
+— I'm currently studying web development.
 
 ## About me
 📚 Focused on web technologies, learning full‑stack development with a strong interest in C and system fundamentals.
