@@ -36,4 +36,5 @@ My name is Rida — I'm currently studying web development.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
-<p><img align="center" src="https://github-readme-stats-99c6.vercel.app/api?username=ridasattoura&show_icons=true&theme=radical"  /></p>
+![rida's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridasattoura\&rank_icon=github)
+
