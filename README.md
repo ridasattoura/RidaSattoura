@@ -36,3 +36,4 @@ My name is Rida — I'm currently studying web development.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
+<img src="https://github-readme-state-steel.vercel.app/api?username=ridasattoura&show_icons=true&theme=Customizing stats card" />
