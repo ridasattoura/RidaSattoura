@@ -1,4 +1,4 @@
-```md
+
 # Hey 👋 What's up?
 
 My name is Rida — I'm currently studying web development.
@@ -36,4 +36,3 @@ My name is Rida — I'm currently studying web development.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
-```
