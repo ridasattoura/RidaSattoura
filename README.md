@@ -2,7 +2,7 @@
 # Hey 👋 What's up?
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Rida!;Full+Stack+Developer;DevOps">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+My+name+is+Rida+🪅;I'm+currently+studying+Computer+Software+Engineering">
   </a>
 </p>
 My name is Rida 🪅
